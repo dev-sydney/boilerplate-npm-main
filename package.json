@@ -3,6 +3,7 @@
   "author": "Sydney Agbenu",
   "description": "This is project is for the codecademy npm challenages",
   "license": "MIT",
+  "version": "1.0.0",
   "keywords": [
     "freecodecamp",
     "Sydney",
