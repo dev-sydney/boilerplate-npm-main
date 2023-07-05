@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Sydney Agbenu",
   "description": "This is project is for the codecademy npm challenages",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "Sydney",
