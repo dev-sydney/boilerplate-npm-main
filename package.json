@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Sydney Agbenu",
+  "description": "This is project is for the codecademy npm challenages",
   "dependencies": {
     "express": "^4.14.0"
   },
